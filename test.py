@@ -1,3 +1,3 @@
 print("Hello World")
 def func():
-    pass
+    return 1
